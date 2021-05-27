@@ -26,6 +26,7 @@ channelCount = len(sndFile)
 # initialise pygame and mixer
 mixer.init()
 pygame.init()
+mixer.set_num_channels(channelCount)
 
 # prepare I2C bus
 i2c = busio.I2C(board.SCL, board.SDA)
