@@ -1,4 +1,6 @@
-## multiChannelSoundFilePlayer
+## Play multiple channels of sounds with touch sensor MPR121
+
+## Python3 is used to execute the included code _MPR121MultiSoundPlay.py_
 
 dependencies:
 
