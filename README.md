@@ -15,4 +15,4 @@ sudo apt-get update
 sudo apt-get install python3-pygame python3-pip
 sudo pip3 install adafruit-circuitpython-mpr121
 ```
-** This project was produced at the school of fine arts and media of Caen, France. The sound clips included are the work of Rajat Mondal **
+**This project was produced at the school of fine arts and media of Caen/Cherbourg (France). The sound clips included are the work of Rajat Mondal**
